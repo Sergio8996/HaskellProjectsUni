@@ -1,0 +1,1 @@
+cuadrado numero = numero^2   
